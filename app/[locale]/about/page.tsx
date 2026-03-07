@@ -26,7 +26,7 @@ export default function AboutPage() {
                 <div className="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
                     <div className="relative rounded-2xl overflow-hidden aspect-[4/3]">
                         <Image
-                            src="https://placehold.co/800x600/C8E6F5/3D2F4E?text=Our+Story"
+                            src="/about.png"
                             alt="Our Story"
                             fill
                             className="object-cover"
@@ -86,7 +86,7 @@ export default function AboutPage() {
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                         <div className="relative rounded-2xl overflow-hidden aspect-video">
                             <Image
-                                src="localhost:3000/en/Cililin.png"
+                                src="/cililin.png"
                                 alt="Gantolle Cililin"
                                 fill
                                 className="object-cover"
@@ -94,7 +94,7 @@ export default function AboutPage() {
                         </div>
                         <div className="relative rounded-2xl overflow-hidden aspect-video">
                             <Image
-                                src="localhost:3000/en/Santiong.png"
+                                src="/santiong.png"
                                 alt="Bukit Santiong Ciater"
                                 fill
                                 className="object-cover"
