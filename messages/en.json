@@ -68,7 +68,7 @@
         "title": "Our Professional Team",
         "subtitle": "Guided by the best in West Java's skies",
         "member": {
-            "name": "[Pilot Name]",
+            "name": "Dedy Ariefijanto",
             "role": "Master Tandem Pilot & Instructor",
             "bio": "A certified tandem pilot and paragliding instructor with over 20 years of experience and thousands of flight hours. Dedicated to passenger safety, comfort, and training the next generation of paragliding pilots."
         }
@@ -78,18 +78,18 @@
         "subtitle": "Experiences from our sky adventurers",
         "items": [
             {
-                "name": "Anisa R.",
-                "text": "An amazing experience! The pilot was very friendly and made me feel safe throughout the flight. The views from above were absolutely beautiful — I'll definitely be back!",
+                "name": "Yoanita Caesaria",
+                "text": "Kang Dedy said: How does it feel? Fun and thrilling! Thank you to the pilot and crew who were very friendly and helpful—from the moment I was nervous and trembling before take-off, until I could finally enjoy the moment.",
                 "rating": 5
             },
             {
-                "name": "Dinda S.",
-                "text": "I was scared at first, but it turned out to be so much fun! The Paralayang Bandung team is very professional and patiently explained everything. A bucket list experience fulfilled!",
+                "name": "Adha Chandra",
+                "text": "My first jump as a paraglider. At first, I had some doubts, but I was also very curious about what it would feel like to do an activity in the air. So I tried a tandem flight first to answer that curiosity. It turned out to be incredibly exciting—enjoying the beauty of nature from the sky made me develop a strong desire to be able to fly on my own, even though I actually afraid of heights. That desire eventually overcame everything. In the end, I decided to attend paragliding school so I could conquer the fear within myself and, in the future, enjoy the beauty of Indonesia from the air (besides from the land and the sea, of course). And now, I did it. Alhamdulillah, I can finally fly on my own. Next step: increase my flight hours and, bismillah, pass the PL-1 license.",
                 "rating": 5
             },
             {
-                "name": "Putri M.",
-                "text": "I've flown with Paralayang Bandung twice now and I'm always satisfied. The booking process is easy, the pilot is experienced, and the views are always breathtaking. Highly recommended!",
+                "name": "Novita",
+                "text": "Thank you to the best pilot, Kang Dedy and crew, for accompanying me in creating a new experience in my life. Sharing stories at an altitude of 1080 meters above sea level, along with the shouts in the air. I truly enjoyed the time and the beauty that surrounded us. You made sure that I was safe and well taken care of. A new definition of meeting face to face—living and risking it all together in the sky!",
                 "rating": 5
             }
         ]
