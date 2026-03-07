@@ -35,11 +35,12 @@ export default function Team() {
                         <Card glass className="p-8 text-center">
                             <div className="w-36 h-36 mx-auto mb-5 rounded-full overflow-hidden ring-4 ring-blush/30">
                                 <Image
-                                    src="https://placehold.co/400x400/E8C4B8/3D2F4E?text=Pilot"
+                                    src="/pilot.png"
                                     alt={t("member.name")}
                                     width={144}
                                     height={144}
                                     className="object-cover w-full h-full"
+                                    unoptimized //
                                 />
                             </div>
                             <h3 className="font-heading text-xl text-dusk mb-1">

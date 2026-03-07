@@ -110,7 +110,7 @@ export default function Packages() {
                             </div>
 
                             <a
-                                href="https://wa.me/6281222302050?text=Halo%2C+saya+tertarik+dengan+kursus+paragliding"
+                                href="https://wa.me/6281321500808?text=Halo%2C+saya+tertarik+dengan+kursus+paragliding"
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >

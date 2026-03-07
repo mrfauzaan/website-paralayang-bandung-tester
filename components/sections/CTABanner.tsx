@@ -15,7 +15,7 @@ export default function CTABanner() {
     const waMessage = locale === "id"
         ? "Halo! Saya boleh minta informasi lebih lanjut terkait Paralayang Bandung? Terimakasih!"
         : "Hello! Can you please tell me more about Paralayang Bandung? Thank you!";
-    const waLink = `https://wa.me/6281222302050?text=${encodeURIComponent(waMessage)}`;
+    const waLink = `https://wa.me/6282126154170?text=${encodeURIComponent(waMessage)}`;
 
     return (
         <section

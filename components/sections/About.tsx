@@ -34,7 +34,7 @@ export default function About() {
                     >
                         <div className="relative rounded-2xl overflow-hidden aspect-[4/3]">
                             <Image
-                                src="https://placehold.co/800x600/C8E6F5/3D2F4E?text=Paralayang+Bandung"
+                                src="/about.png"
                                 alt="Paralayang Bandung"
                                 fill
                                 className="object-cover"

@@ -86,7 +86,7 @@ export default function AboutPage() {
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                         <div className="relative rounded-2xl overflow-hidden aspect-video">
                             <Image
-                                src="https://placehold.co/800x450/7A9E87/F5F0EB?text=Gantolle+Cililin"
+                                src="localhost:3000/en/Cililin.png"
                                 alt="Gantolle Cililin"
                                 fill
                                 className="object-cover"
@@ -94,7 +94,7 @@ export default function AboutPage() {
                         </div>
                         <div className="relative rounded-2xl overflow-hidden aspect-video">
                             <Image
-                                src="https://placehold.co/800x450/7A9E87/F5F0EB?text=Bukit+Santiong+Ciater"
+                                src="localhost:3000/en/Santiong.png"
                                 alt="Bukit Santiong Ciater"
                                 fill
                                 className="object-cover"

@@ -15,13 +15,13 @@ export default function Locations() {
     const locations = [
         {
             key: "gantolle",
-            image: "https://placehold.co/800x600/7A9E87/F5F0EB?text=Gantolle+Cililin",
+            image: "/cililin.png",
             mapEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15842.5!2d107.4!3d-6.9!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNsKwNTQnMDAuMCJTIDEwN8KwMjQnMDAuMCJF!5e0!3m2!1sen!2sid!4v1",
             mapLink: "https://maps.app.goo.gl/WsWBYgi5KYMJBLKN6",
         },
         {
             key: "ciater",
-            image: "https://placehold.co/800x600/7A9E87/F5F0EB?text=Bukit+Santiong+Ciater",
+            image: "/santiong.png",
             mapEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15842.5!2d107.6!3d-6.7!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNsKwNDInMDAuMCJTIDEwN8KwMzYnMDAuMCJF!5e0!3m2!1sen!2sid!4v1",
             mapLink: "https://maps.app.goo.gl/hqvxM82T4C1V7cZNA",
         },
