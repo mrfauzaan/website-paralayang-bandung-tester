@@ -1,0 +1,296 @@
+{
+    "nav": {
+        "home": "Beranda",
+        "packages": "Paket",
+        "locations": "Lokasi",
+        "about": "Tentang",
+        "booking": "Booking",
+        "terms": "Syarat & Ketentuan",
+        "privacy": "Kebijakan Privasi",
+        "bookNow": "Pesan Sekarang"
+    },
+    "hero": {
+        "tagline": "Terbang di Atas Langit Jawa Barat",
+        "subtitle": "Rasakan sensasi terbang tandem paragliding bersama pilot berpengalaman di Jawa Barat. Pengalaman yang tak terlupakan menanti Anda.",
+        "bookNow": "Pesan Sekarang",
+        "learnMore": "Pelajari Lebih Lanjut"
+    },
+    "about": {
+        "title": "Tentang Kami",
+        "subtitle": "Petualangan Premium di Langit Jawa Barat",
+        "story": "Paralayang Bandung hadir untuk memberikan pengalaman terbang yang aman, nyaman, dan tak terlupakan. Kami yakin bahwa setiap orang berhak merasakan kebebasan di atas awan dengan pemandangan alam Jawa Barat yang menakjubkan sebagai latarnya.",
+        "story2": "Didukung oleh pilot dan instruktur bersertifikat dengan pengalaman bertahun-tahun, kami berkomitmen untuk menjadikan petualangan Anda menjelajahi langit sebagai momen berharga yang akan selalu dikenang.",
+        "mission": "Misi Kami",
+        "missionText": "Memberikan pengalaman paragliding yang aman dan menyenangkan bagi semua orang, sambil mempromosikan keindahan alam Jawa Barat kepada dunia.",
+        "vision": "Visi Kami",
+        "visionText": "Menjadi penyedia layanan paragliding terkemuka di Indonesia yang dikenal karena keamanan, profesionalisme, dan pengalaman pelanggan yang luar biasa.",
+        "safety": "Budaya Keselamatan",
+        "safetyText": "Keselamatan adalah prioritas utama kami. Semua peralatan diperiksa secara rutin, pilot kami tersertifikasi, dan kami selalu memantau kondisi cuaca sebelum setiap penerbangan."
+    },
+    "packages": {
+        "title": "Paket Kami",
+        "subtitle": "Pilih petualangan langit yang cocok untuk Anda",
+        "tandem": {
+            "name": "Tandem Paragliding",
+            "price": "Rp 450.000",
+            "priceNote": "Mulai dari / per orang",
+            "duration": "Hingga 15 menit waktu terbang",
+            "description": "Terbang bersama pilot berpengalaman dan nikmati pemandangan alam Jawa Barat dari ketinggian. Cocok untuk pemula dan semua yang ingin merasakan sensasi terbang.",
+            "location": "Gantolle Cililin atau Bukit Santiong Ciater",
+            "note": "Harga belum termasuk asuransi. Asuransi opsional tersedia dengan biaya tambahan.",
+            "requirements": "Usia minimal 10 tahun, berat badan maks 100kg, tidak memiliki gangguan jantung.",
+            "bookNow": "Pesan Sekarang"
+        },
+        "course": {
+            "name": "Kursus Paragliding",
+            "price": "Hubungi Kami",
+            "priceNote": "Untuk informasi harga",
+            "duration": "Program pelatihan multi-hari",
+            "description": "Pelajari seni terbang paragliding dari nol. Program pelatihan komprehensif mencakup ground handling, teori, penerbangan praktis, dan sertifikasi.",
+            "location": "Gantolle Cililin",
+            "includes": "Ground handling, teori, penerbangan praktis, sertifikasi",
+            "contactUs": "Hubungi Kami"
+        }
+    },
+    "locations": {
+        "title": "Lokasi Terbang",
+        "subtitle": "Dua lokasi menakjubkan di Jawa Barat",
+        "gantolle": {
+            "name": "Gantolle Cililin",
+            "description": "Terletak di kawasan Cililin, Bandung Barat, Gantolle menawarkan pemandangan perbukitan hijau yang memukau. Lokasi takeoff yang ideal dengan kondisi angin yang stabil, menjadikannya tempat favorit untuk tandem dan kursus paragliding."
+        },
+        "ciater": {
+            "name": "Bukit Santiong Ciater",
+            "description": "Berada di kawasan Ciater, Subang, Bukit Santiong menawarkan pemandangan perkebunan teh dan pegunungan yang spektakuler. Spot terbang ini terkenal dengan udara segar dan panorama alam yang luar biasa indah."
+        }
+    },
+    "team": {
+        "title": "Tim Profesional Kami",
+        "subtitle": "Dipandu oleh yang terbaik di langit Jawa Barat",
+        "member": {
+            "name": "[Nama Pilot]",
+            "role": "Master Tandem Pilot & Instruktur",
+            "bio": "Pilot tandem sekaligus instruktur paragliding bersertifikat dengan pengalaman lebih dari 20 tahun dan ribuan jam terbang. Keselamatan, kenyamanan, dan pengembangan generasi baru pilot paragliding adalah dedikasi utamanya."
+        }
+    },
+    "testimonials": {
+        "title": "Apa Kata Mereka",
+        "subtitle": "Pengalaman dari para petualang langit kami",
+        "items": [
+            {
+                "name": "Anisa R.",
+                "text": "Pengalaman yang luar biasa! Pilot-nya sangat ramah dan membuat saya merasa aman sepanjang penerbangan. Pemandangan dari atas indah banget, saya pasti akan kembali lagi!",
+                "rating": 5
+            },
+            {
+                "name": "Dinda S.",
+                "text": "Awalnya takut, tapi ternyata sangat menyenangkan! Tim Paralayang Bandung sangat profesional dan sabar menjelaskan semuanya. Pengalaman bucket list yang terpenuhi!",
+                "rating": 5
+            },
+            {
+                "name": "Putri M.",
+                "text": "Sudah dua kali terbang dengan Paralayang Bandung dan selalu puas. Proses bookingnya mudah, pilot-nya berpengalaman, dan pemandangannya selalu menakjubkan. Sangat recommended!",
+                "rating": 5
+            }
+        ]
+    },
+    "faq": {
+        "title": "Pertanyaan yang Sering Diajukan",
+        "subtitle": "Semua yang perlu Anda ketahui sebelum terbang",
+        "items": [
+            {
+                "question": "Apakah paragliding tandem itu aman?",
+                "answer": "Ya, keselamatan adalah prioritas utama kami. Pilot kami bersertifikat dengan pengalaman bertahun-tahun. Semua peralatan diperiksa secara rutin dan kami selalu memantau kondisi cuaca sebelum penerbangan. Kami tidak akan terbang jika kondisi cuaca tidak mendukung."
+            },
+            {
+                "question": "Berapa batas usia dan berat badan untuk tandem?",
+                "answer": "Usia minimal 10 tahun dan berat badan maksimal 100kg. Peserta di bawah 18 tahun harus mendapat izin dari orang tua/wali. Peserta juga tidak boleh memiliki riwayat gangguan jantung."
+            },
+            {
+                "question": "Apakah harga sudah termasuk asuransi?",
+                "answer": "Harga yang tertera belum termasuk asuransi. Asuransi opsional tersedia dengan biaya tambahan. Kami sangat menyarankan peserta untuk mengambil asuransi demi keamanan tambahan."
+            },
+            {
+                "question": "Apa yang harus saya kenakan saat terbang?",
+                "answer": "Gunakan pakaian yang nyaman dan sepatu tertutup (sneakers/sepatu olahraga). Hindari sandal, high heels, atau sepatu terbuka. Gunakan celana panjang dan pertimbangkan jaket tipis karena suhu di ketinggian lebih dingin."
+            },
+            {
+                "question": "Bagaimana proses booking dan pembayaran?",
+                "answer": "Isi formulir booking di website kami, lalu Anda akan diarahkan ke WhatsApp untuk konfirmasi jadwal dan pembayaran. Pembayaran dapat dilakukan melalui transfer bank. Booking dianggap sah setelah pembayaran diterima."
+            },
+            {
+                "question": "Bagaimana kebijakan pembatalan dan pengembalian dana?",
+                "answer": "Pembatalan kurang dari 24 jam sebelum jadwal terbang tidak dapat dikembalikan. Penjadwalan ulang dapat dilakukan maksimal 48 jam sebelum jadwal terbang. Jika penerbangan dibatalkan karena cuaca, jadwal akan diubah ke tanggal lain tanpa biaya tambahan."
+            }
+        ]
+    },
+    "cta": {
+        "title": "Siap Untuk Terbang?",
+        "subtitle": "Hubungi kami melalui WhatsApp untuk booking atau informasi lebih lanjut",
+        "button": "Chat via WhatsApp"
+    },
+    "footer": {
+        "description": "Pengalaman paragliding premium di Jawa Barat. Terbang aman dan nyaman bersama pilot berpengalaman.",
+        "quickLinks": "Tautan Cepat",
+        "contact": "Kontak",
+        "followUs": "Ikuti Kami",
+        "copyright": "© 2026 Paralayang Bandung. Semua hak dilindungi.",
+        "whatsapp": "WhatsApp"
+    },
+    "booking": {
+        "title": "Formulir Booking",
+        "subtitle": "Pesan petualangan langit Anda dalam 3 langkah mudah",
+        "step1": {
+            "title": "Pilih Paket",
+            "package": "Paket",
+            "tandem": "Tandem Paragliding",
+            "course": "Kursus Paragliding",
+            "location": "Lokasi",
+            "gantolle": "Gantolle Cililin",
+            "ciater": "Bukit Santiong Ciater",
+            "date": "Tanggal Terbang",
+            "pax": "Jumlah Orang",
+            "paxNote": "Maks 4 orang untuk tandem",
+            "next": "Lanjut"
+        },
+        "step2": {
+            "title": "Data Pribadi",
+            "fullName": "Nama Lengkap",
+            "email": "Alamat Email",
+            "phone": "Nomor WhatsApp",
+            "age": "Usia",
+            "weight": "Berat Badan (kg)",
+            "emergencyName": "Nama Kontak Darurat",
+            "emergencyPhone": "Nomor Kontak Darurat",
+            "medicalConditions": "Kondisi Medis (jika ada)",
+            "medicalPlaceholder": "Jelaskan kondisi medis yang perlu kami ketahui...",
+            "next": "Lanjut",
+            "back": "Kembali"
+        },
+        "step3": {
+            "title": "Ringkasan & Konfirmasi",
+            "summary": "Ringkasan Booking",
+            "package": "Paket",
+            "location": "Lokasi",
+            "date": "Tanggal",
+            "pax": "Jumlah Orang",
+            "name": "Nama",
+            "email": "Email",
+            "phone": "WhatsApp",
+            "age": "Usia",
+            "weight": "Berat Badan",
+            "emergencyContact": "Kontak Darurat",
+            "insurance": "Saya ingin menambahkan asuransi (harga akan dikonfirmasi via WhatsApp)",
+            "terms": "Saya telah membaca dan menyetujui",
+            "termsLink": "Syarat & Ketentuan",
+            "submit": "Konfirmasi via WhatsApp",
+            "back": "Kembali"
+        },
+        "progress": {
+            "step1": "Paket",
+            "step2": "Data Diri",
+            "step3": "Konfirmasi"
+        },
+        "validation": {
+            "packageRequired": "Silakan pilih paket",
+            "locationRequired": "Silakan pilih lokasi",
+            "dateRequired": "Silakan pilih tanggal",
+            "paxRequired": "Silakan pilih jumlah orang",
+            "nameRequired": "Nama lengkap wajib diisi",
+            "nameMin": "Nama minimal 2 karakter",
+            "emailRequired": "Email wajib diisi",
+            "emailInvalid": "Format email tidak valid",
+            "phoneRequired": "Nomor WhatsApp wajib diisi",
+            "phoneMin": "Nomor WhatsApp minimal 10 digit",
+            "ageRequired": "Usia wajib diisi",
+            "ageMin": "Usia minimal 10 tahun",
+            "weightRequired": "Berat badan wajib diisi",
+            "weightMax": "Berat badan maksimal 90kg",
+            "emergencyNameRequired": "Nama kontak darurat wajib diisi",
+            "emergencyPhoneRequired": "Nomor kontak darurat wajib diisi",
+            "termsRequired": "Anda harus menyetujui syarat dan ketentuan"
+        }
+    },
+    "terms": {
+        "title": "Syarat & Ketentuan",
+        "lastUpdated": "Terakhir diperbarui: Maret 2026",
+        "sections": {
+            "general": {
+                "title": "1. Ketentuan Umum",
+                "content": "Dengan menggunakan layanan Paralayang Bandung, Anda menyetujui syarat dan ketentuan berikut. Layanan kami mencakup pengalaman terbang tandem paragliding dan kursus paragliding yang dioperasikan di Gantolle Cililin dan Bukit Santiong Ciater, Jawa Barat, Indonesia."
+            },
+            "booking": {
+                "title": "2. Booking & Pembayaran",
+                "content": "Booking dianggap sah setelah pembayaran penuh diterima. Pembayaran dapat dilakukan melalui transfer bank ke rekening yang akan diinformasikan melalui WhatsApp. Harga yang tertera di website adalah harga per orang dan belum termasuk asuransi."
+            },
+            "cancellation": {
+                "title": "3. Pembatalan & Pengembalian Dana",
+                "content": "Pembatalan kurang dari 24 jam sebelum jadwal terbang yang telah dikonfirmasi tidak dapat dikembalikan dananya. Penjadwalan ulang dapat dilakukan dengan menghubungi kami melalui WhatsApp maksimal 48 jam sebelum jadwal terbang. Penjadwalan ulang tergantung ketersediaan slot."
+            },
+            "safety": {
+                "title": "4. Persyaratan Keselamatan",
+                "content": "Peserta harus berusia minimal 10 tahun dan memiliki berat badan maksimal 100kg. Peserta di bawah 18 tahun wajib mendapatkan izin dari orang tua atau wali. Peserta tidak boleh memiliki riwayat gangguan jantung, epilepsi, atau kondisi medis lain yang dapat membahayakan keselamatan selama penerbangan. Paralayang Bandung berhak menolak peserta yang dianggap tidak memenuhi persyaratan keselamatan."
+            },
+            "insurance": {
+                "title": "5. Asuransi",
+                "content": "Harga layanan kami TIDAK termasuk asuransi. Asuransi kecelakaan opsional tersedia dengan biaya tambahan yang akan diinformasikan saat konfirmasi booking. Peserta yang memilih untuk tidak mengambil asuransi opsional menanggung risiko secara pribadi. Kami sangat menyarankan seluruh peserta untuk mengambil asuransi."
+            },
+            "weather": {
+                "title": "6. Kebijakan Cuaca",
+                "content": "Penerbangan paragliding sangat bergantung pada kondisi cuaca. Paralayang Bandung berhak membatalkan atau menunda penerbangan jika kondisi cuaca tidak aman. Jika penerbangan dibatalkan karena cuaca, jadwal akan diubah ke tanggal lain tanpa biaya tambahan. Pembatalan karena cuaca bukan merupakan dasar pengembalian dana."
+            },
+            "liability": {
+                "title": "7. Batasan Tanggung Jawab & Pelepasan",
+                "content": "Peserta memahami bahwa paragliding adalah kegiatan olahraga udara yang memiliki risiko inherent. Dengan berpartisipasi, peserta menerima dan menanggung risiko yang terkait dengan aktivitas ini. Paralayang Bandung, pilot, instruktur, dan karyawannya tidak bertanggung jawab atas cedera, kehilangan, atau kerusakan yang terjadi selama aktivitas, kecuali yang disebabkan oleh kelalaian berat terbukti dari pihak kami."
+            },
+            "governing": {
+                "title": "8. Hukum yang Berlaku",
+                "content": "Syarat dan ketentuan ini tunduk pada hukum Republik Indonesia. Segala sengketa yang timbul akan diselesaikan melalui musyawarah terlebih dahulu, dan jika tidak tercapai kesepakatan, akan diselesaikan melalui pengadilan yang berwenang di wilayah Bandung, Jawa Barat."
+            }
+        }
+    },
+    "privacy": {
+        "title": "Kebijakan Privasi",
+        "lastUpdated": "Terakhir diperbarui: Maret 2026",
+        "sections": {
+            "intro": {
+                "title": "1. Pendahuluan",
+                "content": "Paralayang Bandung berkomitmen untuk melindungi privasi data pribadi Anda sesuai dengan Undang-Undang Perlindungan Data Pribadi (UU PDP) Republik Indonesia. Kebijakan ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi Anda."
+            },
+            "dataCollected": {
+                "title": "2. Data yang Dikumpulkan",
+                "content": "Kami mengumpulkan data berikut melalui formulir booking: nama lengkap, alamat email, nomor telepon/WhatsApp, usia, berat badan, informasi kondisi medis, serta data kontak darurat. Data ini diperlukan untuk memproses booking dan memastikan keselamatan Anda."
+            },
+            "dataUsage": {
+                "title": "3. Penggunaan Data",
+                "content": "Data Anda digunakan semata-mata untuk: memproses dan mengonfirmasi booking, berkomunikasi mengenai jadwal dan informasi penerbangan, memastikan keselamatan peserta berdasarkan informasi medis dan fisik, serta menghubungi kontak darurat jika diperlukan."
+            },
+            "dataSharing": {
+                "title": "4. Pembagian Data",
+                "content": "Kami TIDAK menjual, menyewakan, atau membagikan data pribadi Anda kepada pihak ketiga untuk tujuan komersial. Data Anda hanya dapat dibagikan kepada pihak asuransi (jika Anda memilih asuransi), pihak berwenang jika diwajibkan oleh hukum, dan pilot/instruktur yang terlibat dalam penerbangan Anda."
+            },
+            "whatsapp": {
+                "title": "5. Komunikasi WhatsApp",
+                "content": "Dengan mengirimkan formulir booking, Anda menyetujui untuk menerima komunikasi melalui WhatsApp terkait booking Anda, termasuk konfirmasi, pengingat jadwal, dan informasi penting lainnya tentang penerbangan Anda."
+            },
+            "retention": {
+                "title": "6. Penyimpanan Data",
+                "content": "Data pribadi Anda disimpan selama diperlukan untuk tujuan layanan dan maksimal 12 bulan setelah penerbangan terakhir Anda. Setelah periode tersebut, data akan dihapus secara aman kecuali diwajibkan oleh hukum untuk menyimpannya lebih lama."
+            },
+            "rights": {
+                "title": "7. Hak Anda",
+                "content": "Sesuai UU PDP Indonesia, Anda memiliki hak untuk: mengakses data pribadi Anda, meminta perbaikan data yang tidak akurat, meminta penghapusan data pribadi Anda, mencabut persetujuan penggunaan data, serta mengajukan keluhan terkait penanganan data pribadi."
+            },
+            "contact": {
+                "title": "8. Kontak",
+                "content": "Untuk pertanyaan atau permintaan terkait data pribadi Anda, silakan hubungi kami melalui WhatsApp di +6281222302050 atau melalui Instagram di @paralayang_bandung."
+            }
+        }
+    },
+    "aboutPage": {
+        "heroTitle": "Tentang Paralayang Bandung",
+        "heroSubtitle": "Petualangan premium di langit Jawa Barat sejak hari pertama",
+        "locationOverview": "Gambaran Lokasi",
+        "locationText": "Kami beroperasi di dua lokasi menakjubkan di Jawa Barat — Gantolle Cililin di Bandung Barat dan Bukit Santiong Ciater di Subang. Kedua lokasi menawarkan pemandangan alam yang spektakuler dan kondisi terbang yang ideal."
+    }
+}

@@ -1,0 +1,296 @@
+{
+    "nav": {
+        "home": "Home",
+        "packages": "Packages",
+        "locations": "Locations",
+        "about": "About",
+        "booking": "Booking",
+        "terms": "Terms & Conditions",
+        "privacy": "Privacy Policy",
+        "bookNow": "Book Now"
+    },
+    "hero": {
+        "tagline": "Fly Above West Java Land",
+        "subtitle": "Experience the thrill of tandem paragliding with an experienced pilot in West Java. An unforgettable adventure awaits you.",
+        "bookNow": "Book Now",
+        "learnMore": "Learn More"
+    },
+    "about": {
+        "title": "About Us",
+        "subtitle": "Premium Sky Adventures in West Java",
+        "story": "Paralayang Bandung is here to provide a safe, comfortable, and unforgettable flying experience. We believe everyone deserves to feel the freedom above the clouds with the stunning landscapes of West Java as your backdrop.",
+        "story2": "Supported by certified pilots and instructors with years of experience, we are committed to making your sky adventure a precious moment you will always remember.",
+        "mission": "Our Mission",
+        "missionText": "To provide safe and enjoyable paragliding experiences for everyone, while promoting the natural beauty of West Java to the world.",
+        "vision": "Our Vision",
+        "visionText": "To become Indonesia's leading paragliding service provider, known for safety, professionalism, and extraordinary customer experiences.",
+        "safety": "Safety Culture",
+        "safetyText": "Safety is our top priority. All equipment is regularly inspected, our pilots are certified, and we always monitor weather conditions before every flight."
+    },
+    "packages": {
+        "title": "Our Packages",
+        "subtitle": "Choose the sky adventure that suits you",
+        "tandem": {
+            "name": "Tandem Paragliding",
+            "price": "Rp 450.000",
+            "priceNote": "Starting from / per person",
+            "duration": "Up to 15 minutes flight time",
+            "description": "Fly with an experienced pilot and enjoy the stunning views of West Java from above. Perfect for beginners and anyone wanting to experience the thrill of flight.",
+            "location": "Gantolle Cililin or Bukit Santiong Ciater",
+            "note": "Price excludes insurance. Optional insurance available at additional cost.",
+            "requirements": "Minimum age 10 years, max weight 100kg, no heart conditions.",
+            "bookNow": "Book Now"
+        },
+        "course": {
+            "name": "Paragliding Course",
+            "price": "Contact Us",
+            "priceNote": "For pricing information",
+            "duration": "Multi-day training program",
+            "description": "Learn the art of paragliding from scratch. Comprehensive training program covering ground handling, theory, practical flights, and certification.",
+            "location": "Gantolle Cililin",
+            "includes": "Ground handling, theory, practical flights, certification",
+            "contactUs": "Contact Us"
+        }
+    },
+    "locations": {
+        "title": "Flying Locations",
+        "subtitle": "Two stunning locations in West Java",
+        "gantolle": {
+            "name": "Gantolle Cililin",
+            "description": "Located in the Cililin area of West Bandung, Gantolle offers breathtaking views of lush green hills. An ideal take-off location with stable wind conditions, making it a favorite spot for tandem and paragliding courses."
+        },
+        "ciater": {
+            "name": "Bukit Santiong Ciater",
+            "description": "Situated in the Ciater area of Subang, Bukit Santiong offers spectacular views of tea plantations and mountains. This flying spot is renowned for its fresh air and extraordinarily beautiful natural panoramas."
+        }
+    },
+    "team": {
+        "title": "Our Professional Team",
+        "subtitle": "Guided by the best in West Java's skies",
+        "member": {
+            "name": "[Pilot Name]",
+            "role": "Master Tandem Pilot & Instructor",
+            "bio": "A certified tandem pilot and paragliding instructor with over 20 years of experience and thousands of flight hours. Dedicated to passenger safety, comfort, and training the next generation of paragliding pilots."
+        }
+    },
+    "testimonials": {
+        "title": "What They Say",
+        "subtitle": "Experiences from our sky adventurers",
+        "items": [
+            {
+                "name": "Anisa R.",
+                "text": "An amazing experience! The pilot was very friendly and made me feel safe throughout the flight. The views from above were absolutely beautiful — I'll definitely be back!",
+                "rating": 5
+            },
+            {
+                "name": "Dinda S.",
+                "text": "I was scared at first, but it turned out to be so much fun! The Paralayang Bandung team is very professional and patiently explained everything. A bucket list experience fulfilled!",
+                "rating": 5
+            },
+            {
+                "name": "Putri M.",
+                "text": "I've flown with Paralayang Bandung twice now and I'm always satisfied. The booking process is easy, the pilot is experienced, and the views are always breathtaking. Highly recommended!",
+                "rating": 5
+            }
+        ]
+    },
+    "faq": {
+        "title": "Frequently Asked Questions",
+        "subtitle": "Everything you need to know before flying",
+        "items": [
+            {
+                "question": "Is tandem paragliding safe?",
+                "answer": "Yes, safety is our top priority. Our pilots are certified with years of experience. All equipment is regularly inspected and we always monitor weather conditions before flights. We will not fly if weather conditions are not suitable."
+            },
+            {
+                "question": "What are the age and weight limits for tandem?",
+                "answer": "Minimum age is 10 years and maximum weight is 100kg. Participants under 18 must have parental/guardian permission. Participants must not have a history of heart conditions."
+            },
+            {
+                "question": "Is insurance included in the price?",
+                "answer": "The listed price does not include insurance. Optional insurance is available at an additional cost. We strongly recommend all participants to opt for insurance for added safety."
+            },
+            {
+                "question": "What should I wear when flying?",
+                "answer": "Wear comfortable clothing and closed-toe shoes (sneakers/sports shoes). Avoid sandals, high heels, or open shoes. Wear long pants and consider a light jacket as temperatures are cooler at altitude."
+            },
+            {
+                "question": "How does the booking and payment process work?",
+                "answer": "Fill out the booking form on our website, then you will be directed to WhatsApp to confirm your schedule and payment. Payment can be made via bank transfer. Booking is confirmed once payment is received."
+            },
+            {
+                "question": "What is the cancellation and refund policy?",
+                "answer": "Cancellations less than 24 hours before the confirmed flight schedule are non-refundable. Rescheduling can be done by contacting us via WhatsApp up to 48 hours before the flight schedule. If a flight is cancelled due to weather, it will be rescheduled to another date at no extra cost."
+            }
+        ]
+    },
+    "cta": {
+        "title": "Ready to Fly?",
+        "subtitle": "Contact us via WhatsApp to book or for more information",
+        "button": "Chat via WhatsApp"
+    },
+    "footer": {
+        "description": "Premium paragliding experience in West Java. Fly safely and comfortably with experienced pilots.",
+        "quickLinks": "Quick Links",
+        "contact": "Contact",
+        "followUs": "Follow Us",
+        "copyright": "© 2026 Paralayang Bandung. All rights reserved.",
+        "whatsapp": "WhatsApp"
+    },
+    "booking": {
+        "title": "Booking Form",
+        "subtitle": "Book your sky adventure in 3 easy steps",
+        "step1": {
+            "title": "Choose Package",
+            "package": "Package",
+            "tandem": "Tandem Paragliding",
+            "course": "Paragliding Course",
+            "location": "Location",
+            "gantolle": "Gantolle Cililin",
+            "ciater": "Bukit Santiong Ciater",
+            "date": "Flight Date",
+            "pax": "Number of People",
+            "paxNote": "Max 4 people for tandem",
+            "next": "Next"
+        },
+        "step2": {
+            "title": "Personal Details",
+            "fullName": "Full Name",
+            "email": "Email Address",
+            "phone": "WhatsApp Number",
+            "age": "Age",
+            "weight": "Weight (kg)",
+            "emergencyName": "Emergency Contact Name",
+            "emergencyPhone": "Emergency Contact Number",
+            "medicalConditions": "Medical Conditions (if any)",
+            "medicalPlaceholder": "Describe any medical conditions we should know about...",
+            "next": "Next",
+            "back": "Back"
+        },
+        "step3": {
+            "title": "Review & Confirm",
+            "summary": "Booking Summary",
+            "package": "Package",
+            "location": "Location",
+            "date": "Date",
+            "pax": "Number of People",
+            "name": "Name",
+            "email": "Email",
+            "phone": "WhatsApp",
+            "age": "Age",
+            "weight": "Weight",
+            "emergencyContact": "Emergency Contact",
+            "insurance": "I would like to add insurance (price to be confirmed via WhatsApp)",
+            "terms": "I have read and agree to the",
+            "termsLink": "Terms & Conditions",
+            "submit": "Confirm via WhatsApp",
+            "back": "Back"
+        },
+        "progress": {
+            "step1": "Package",
+            "step2": "Details",
+            "step3": "Confirm"
+        },
+        "validation": {
+            "packageRequired": "Please select a package",
+            "locationRequired": "Please select a location",
+            "dateRequired": "Please select a date",
+            "paxRequired": "Please select number of people",
+            "nameRequired": "Full name is required",
+            "nameMin": "Name must be at least 2 characters",
+            "emailRequired": "Email is required",
+            "emailInvalid": "Invalid email format",
+            "phoneRequired": "WhatsApp number is required",
+            "phoneMin": "WhatsApp number must be at least 10 digits",
+            "ageRequired": "Age is required",
+            "ageMin": "Minimum age is 10 years",
+            "weightRequired": "Weight is required",
+            "weightMax": "Maximum weight is 90kg",
+            "emergencyNameRequired": "Emergency contact name is required",
+            "emergencyPhoneRequired": "Emergency contact number is required",
+            "termsRequired": "You must agree to the terms and conditions"
+        }
+    },
+    "terms": {
+        "title": "Terms & Conditions",
+        "lastUpdated": "Last updated: March 2026",
+        "sections": {
+            "general": {
+                "title": "1. General Terms",
+                "content": "By using Paralayang Bandung services, you agree to the following terms and conditions. Our services include tandem paragliding experiences and paragliding courses operated at Gantolle Cililin and Bukit Santiong Ciater, West Java, Indonesia."
+            },
+            "booking": {
+                "title": "2. Booking & Payment",
+                "content": "Bookings are confirmed upon receipt of full payment. Payment can be made via bank transfer to an account that will be provided via WhatsApp. Prices displayed on the website are per person and do not include insurance."
+            },
+            "cancellation": {
+                "title": "3. Cancellation & Refund Policy",
+                "content": "Cancellations less than 24 hours before the confirmed flight schedule are non-refundable. Rescheduling can be done by contacting us via WhatsApp up to 48 hours before the flight schedule. Rescheduling is subject to slot availability."
+            },
+            "safety": {
+                "title": "4. Safety Requirements",
+                "content": "Participants must be at least 10 years old and weigh no more than 100kg. Participants under 18 must obtain permission from a parent or guardian. Participants must not have a history of heart conditions, epilepsy, or other medical conditions that could endanger safety during flight. Paralayang Bandung reserves the right to refuse any participant deemed not meeting safety requirements."
+            },
+            "insurance": {
+                "title": "5. Insurance",
+                "content": "Our service prices DO NOT include insurance. Optional accident insurance is available at an additional cost that will be communicated upon booking confirmation. Participants who choose not to take optional insurance assume personal risk. We strongly recommend all participants to opt for insurance."
+            },
+            "weather": {
+                "title": "6. Weather Policy",
+                "content": "Paragliding flights are highly dependent on weather conditions. Paralayang Bandung reserves the right to cancel or postpone flights if weather conditions are unsafe. If a flight is cancelled due to weather, the schedule will be changed to another date at no additional cost. Weather cancellations are not grounds for refunds."
+            },
+            "liability": {
+                "title": "7. Liability Limitation & Waiver",
+                "content": "Participants understand that paragliding is an aerial sport that carries inherent risks. By participating, participants accept and assume the risks associated with this activity. Paralayang Bandung, its pilots, instructors, and employees shall not be liable for any injury, loss, or damage occurring during activities, except those caused by proven gross negligence on our part."
+            },
+            "governing": {
+                "title": "8. Governing Law",
+                "content": "These terms and conditions are governed by the laws of the Republic of Indonesia. Any disputes shall first be resolved through deliberation, and if no agreement is reached, shall be resolved through the competent court in the Bandung region, West Java."
+            }
+        }
+    },
+    "privacy": {
+        "title": "Privacy Policy",
+        "lastUpdated": "Last updated: March 2026",
+        "sections": {
+            "intro": {
+                "title": "1. Introduction",
+                "content": "Paralayang Bandung is committed to protecting the privacy of your personal data in accordance with the Personal Data Protection Law (UU PDP) of the Republic of Indonesia. This policy explains how we collect, use, and protect your information."
+            },
+            "dataCollected": {
+                "title": "2. Data Collected",
+                "content": "We collect the following data through the booking form: full name, email address, phone/WhatsApp number, age, weight, medical condition information, and emergency contact data. This data is required to process your booking and ensure your safety."
+            },
+            "dataUsage": {
+                "title": "3. Data Usage",
+                "content": "Your data is used solely for: processing and confirming bookings, communicating about schedules and flight information, ensuring participant safety based on medical and physical information, and contacting emergency contacts if necessary."
+            },
+            "dataSharing": {
+                "title": "4. Data Sharing",
+                "content": "We DO NOT sell, rent, or share your personal data to third parties for commercial purposes. Your data may only be shared with insurance providers (if you opt for insurance), authorities if required by law, and pilots/instructors involved in your flight."
+            },
+            "whatsapp": {
+                "title": "5. WhatsApp Communication",
+                "content": "By submitting the booking form, you consent to receiving communications via WhatsApp regarding your booking, including confirmations, schedule reminders, and other important information about your flight."
+            },
+            "retention": {
+                "title": "6. Data Retention",
+                "content": "Your personal data is stored for as long as needed for service purposes and up to 12 months after your last flight. After this period, data will be securely deleted unless we are required by law to retain it longer."
+            },
+            "rights": {
+                "title": "7. Your Rights",
+                "content": "Under Indonesia's PDP Law, you have the right to: access your personal data, request correction of inaccurate data, request deletion of your personal data, withdraw consent for data use, and file complaints regarding personal data handling."
+            },
+            "contact": {
+                "title": "8. Contact",
+                "content": "For questions or requests regarding your personal data, please contact us via WhatsApp at +6281222302050 or through Instagram at @paralayang_bandung."
+            }
+        }
+    },
+    "aboutPage": {
+        "heroTitle": "About Paralayang Bandung",
+        "heroSubtitle": "Premium sky adventures in West Java from day one",
+        "locationOverview": "Location Overview",
+        "locationText": "We operate at two stunning locations in West Java — Gantolle Cililin in West Bandung and Bukit Santiong Ciater in Subang. Both locations offer spectacular natural views and ideal flying conditions."
+    }
+}

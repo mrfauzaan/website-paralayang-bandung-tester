@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --color-sky: #C8E6F5;
+  --color-cloud: #F5F0EB;
+  --color-earth: #8B6F5E;
+  --color-sage: #7A9E87;
+  --color-dusk: #3D2F4E;
+  --color-blush: #E8C4B8;
+  --color-text: #2C2018;
+
+  --font-heading: 'Playfair Display', serif;
+  --font-body: 'DM Sans', sans-serif;
+}
+
+/* ── Base ─────────────────────────────────── */
+body {
+  font-family: var(--font-body);
+  color: var(--color-text);
+  background-color: var(--color-cloud);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-heading);
+}
+
+/* ── Glass Card ──────────────────────────── */
+.glass-card {
+  background: rgba(255, 255, 255, 0.55);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  border-radius: 1.25rem;
+}
+
+/* ── Cloud Animations ────────────────────── */
+@keyframes float-cloud {
+  0% {
+    transform: translateX(-120%);
+    opacity: 0;
+  }
+
+  10% {
+    opacity: 0.7;
+  }
+
+  90% {
+    opacity: 0.7;
+  }
+
+  100% {
+    transform: translateX(120vw);
+    opacity: 0;
+  }
+}
+
+@keyframes float-cloud-reverse {
+  0% {
+    transform: translateX(120vw);
+    opacity: 0;
+  }
+
+  10% {
+    opacity: 0.5;
+  }
+
+  90% {
+    opacity: 0.5;
+  }
+
+  100% {
+    transform: translateX(-120%);
+    opacity: 0;
+  }
+}
+
+.cloud {
+  position: absolute;
+  border-radius: 9999px;
+  background: rgba(255, 255, 255, 0.45);
+  filter: blur(18px);
+}
+
+.cloud-1 {
+  width: 260px;
+  height: 80px;
+  top: 18%;
+  animation: float-cloud 28s linear infinite;
+}
+
+.cloud-2 {
+  width: 340px;
+  height: 60px;
+  top: 35%;
+  animation: float-cloud-reverse 34s linear infinite 4s;
+}
+
+.cloud-3 {
+  width: 200px;
+  height: 50px;
+  top: 55%;
+  animation: float-cloud 22s linear infinite 10s;
+}
+
+.cloud-4 {
+  width: 300px;
+  height: 70px;
+  top: 72%;
+  animation: float-cloud-reverse 30s linear infinite 7s;
+}
+
+/* ── Section helper ──────────────────────── */
+.section-padding {
+  padding: 5rem 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .section-padding {
+    padding: 7rem 2rem;
+  }
+}
+
+/* ── Smooth scroll ───────────────────────── */
+html {
+  scroll-behavior: smooth;
+}
+
+/* ── Selection ───────────────────────────── */
+::selection {
+  background-color: var(--color-blush);
+  color: var(--color-dusk);
+}
